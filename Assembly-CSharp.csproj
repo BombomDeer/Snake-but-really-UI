@@ -62,13 +62,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Damage.cs" />
     <Compile Include="Assets\GameHandler.cs" />
     <Compile Include="Assets\HudManager.cs" />
+    <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\ResourceManager.cs" />
     <Compile Include="Assets\SingleTon.cs" />
     <Compile Include="Assets\SkillSlot.cs" />
     <Compile Include="Assets\SkillSlotManager.cs" />
     <Compile Include="Assets\Snake.cs" />
+    <Compile Include="Assets\UIAnimation.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Atents/Desktop/Snake/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
